@@ -1,4 +1,4 @@
-class Dog extends Pet //hgggggggggggggggggggggggggggggggggggggggggg
+class Dog extends Pet //yyyy
 {
    public boolean preserve(int save){  return save == 1 ? true : false;}
 }
